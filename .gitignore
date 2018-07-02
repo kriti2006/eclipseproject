@@ -1,0 +1,7 @@
+a.out
+.idea
+*.iml
+*.class
+.project
+.cproject
+.settings
